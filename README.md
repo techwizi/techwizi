@@ -1,5 +1,6 @@
 ### Hi there 👋
-#Raj this side
+#### Raj this side
+![](https://github.com/techwizi/techwizi/blob/main/night%20code.gif)
 <!--
 **techwizi/techwizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
