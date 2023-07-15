@@ -1,8 +1,9 @@
 ### Hi there 👋
 #### Raj, this side!
-- :man_student: Pursuing B.Tech in EE
+- 👨‍🎓 Pursuing B.Tech in EE
 -  🔭 I’m currently working on **Cryptocurrency Price Predicion using Reinforcement Learning**
-- 🌱 I’m currently learning Full Stack Web Development
+- 🕸️ I’m currently learning Full Stack Web Development
+- 🤖 Maintaining website of *Electronics Club* of our college. Have a look 👉 https://github.com/eclubiitk/eclubiitk.github.io
 ![](https://github.com/techwizi/techwizi/blob/main/night%20code.gif)
 <!--
 **techwizi/techwizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
